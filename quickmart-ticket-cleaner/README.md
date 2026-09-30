@@ -199,7 +199,7 @@ Python, pandas, requests, Ollama (local LLM serving), `llama3.2` and `qwen2.5` (
 
 ## Author
 
-**Your Name**: [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/YOUR_USERNAME)
+**Abhishek Singh**: [LinkedIn](https://linkedin.com/in/abhishek-singh-170726123) | [GitHub](https://github.com/abhi1628)
 
 ## License
 
